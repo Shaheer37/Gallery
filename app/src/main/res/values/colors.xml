@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/white</color>
+    <color name="colorPrimaryVariant">@android:color/black</color>
+    <color name="colorOnPrimary">@android:color/black</color>
+
+    <color name="colorSecondary">@color/colorPrimary</color>
+    <color name="colorSecondaryVariant">@color/colorPrimaryVariant</color>
+    <color name="colorOnSecondary">@color/colorOnPrimary</color>
+
+    <color name="colorSurface">#DCCFD5</color>
+    <color name="colorOnSurface">@android:color/black</color>
+
+    <color name="colorBackground">@android:color/white</color>
+    <color name="colorOnBackground">@android:color/black</color>
+
+    <color name="colorTranslucentToolbar">#60000000</color>
+    <color name="colorToolbar">#B8B8B8</color>
+    <color name="colorAppbar">@android:color/white</color>
+
+    <color name="drawable_gray">#747474</color>
+</resources>

@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+
+        <!-- Color Background -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+
+        <!-- Color Surface -->
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="editSearch">
+        <item name="android:background">@drawable/bg_edit_search</item>
+        <item name="android:drawableStart">@drawable/ic_search</item>
+        <item name="android:drawableTint">?attr/colorOnBackground</item>
+        <item name="android:drawablePadding">@dimen/search_drawable_padding</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_marginStart">@dimen/search_et_margin_horizontal</item>
+        <item name="android:layout_marginLeft">@dimen/search_et_margin_horizontal</item>
+        <item name="android:layout_marginEnd">@dimen/search_et_margin_horizontal</item>
+        <item name="android:layout_marginRight">@dimen/search_et_margin_horizontal</item>
+        <item name="android:paddingRight">@dimen/search_et_padding_right</item>
+        <item name="android:paddingTop">@dimen/search_et_padding</item>
+        <item name="android:paddingBottom">@dimen/search_et_padding</item>
+        <item name="android:paddingLeft">@dimen/search_et_padding</item>
+        <item name="android:textSize">@dimen/search_text_size</item>
+        <item name="android:textCursorDrawable">@drawable/cursor</item>
+    </style>
+</resources>

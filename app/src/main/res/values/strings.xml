@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gallery</string>
+
+    <string name="search">Search</string>
+    <string name="content_description_search">Search Gallery</string>
+    <string name="photo">photo</string>
+    <string name="retry">retry</string>
+    <string name="please_wait_loading">Please wait while loading..</string>
+    <string name="please_connect">Please connect to a network.</string>
+    <string name="no_images_found">No images found, try again.</string>
+    <string name="generic_error">Unable to get images.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preview">Preview</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading Image. Please wait</string>
+
+</resources>
