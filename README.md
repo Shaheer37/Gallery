@@ -3,6 +3,7 @@
 <img src="./screenshots/1.png" width = "264" height = "464"/> <img src="./screenshots/2.png" width = "264" height = "464"/> <img src="./screenshots/3.png" width = "264" height = "464"/> <img src="./screenshots/4.png" width = "264" height = "464"/>
 
 ## Implementation Details
+The application implementation follows the [architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png) proposed in the android architectural guidelines.
 
 Following are the features implemented;
 1. The user can view the list of, search for and preview images from [Pixabay API](https://pixabay.com/api/docs/).
