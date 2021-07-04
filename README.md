@@ -6,10 +6,11 @@
 
 Following are the features implemented;
 1. The user can view the list of, search for and preview images from [Pixabay API](https://pixabay.com/api/docs/).
-2. And **Retrofit** is used to fetch the data from the api which is then paginated using **Paging 3** with **Coroutine Flows**.
-3. All the project dependencies are injected using **Hilt**
-4. **Dark Theme** support for Android 10 and above
-5. All the presentation is done using **Android Architecture Components** like ViewModels, LiveData and Data Binding.
+2. Images can be downloaded using DownloadManager. Right now image in "largeImageURL" is being downloaded as I didn't receive "imageURL" param in JSON despite filling the application description form a day or 2 ago.  
+3. And **Retrofit** is used to fetch the data from the api which is then paginated using **Paging 3** with **Coroutine Flows**.
+4. All the project dependencies are injected using **Hilt**
+5. **Dark Theme** support for Android 10 and above
+6. All the presentation is done using **Android Architecture Components** like ViewModels, LiveData and Data Binding.
 
 ## Project Setup
 1. Clone the project and run it in Android studio.
