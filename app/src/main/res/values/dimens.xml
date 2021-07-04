@@ -7,7 +7,7 @@
     <dimen name="search_et_padding">12dp</dimen>
     <dimen name="search_et_padding_right">5dp</dimen>
     <dimen name="search_drawable_padding">10dp</dimen>
-    <dimen name="search_text_size">10sp</dimen>
+    <dimen name="search_text_size">12sp</dimen>
 
     <dimen name="label_text_margin_top">8dp</dimen>
     <dimen name="item_state_pb_vertical_margin">35dp</dimen>
